@@ -4,7 +4,7 @@
 I'm a passionate **Laravel Developer** and **Graphic Designer** who loves working on web applications and creative designs.  
 
 ### 💻 Technologies & Skills  
-- 🌐 **Web Development**: Html, Laravel  
+- 🌐 **Web Development**: Html, Laravel , PHP
 - 🎨 **Graphic Design**: Figma, Canva  
 - ⚡ **Version Control**: Git & GitHub  
 - 🛠 **Other Tools**: Bootstrap, Tailwind CSS, SweetAlert  
@@ -14,7 +14,7 @@ I'm a passionate **Laravel Developer** and **Graphic Designer** who loves workin
 - 🎨 Designing promotional materials for **SpendaSession**  
 
 ### 📬 Connect with Me  
-<p align="l">
+<p align="left">
   <a href="https://github.com/maurhm11olz">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
