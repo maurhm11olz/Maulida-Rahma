@@ -14,7 +14,7 @@ I'm a passionate **Laravel Developer** and **Graphic Designer** who loves workin
 - 🎨 Designing promotional materials for **SpendaSession**  
 
 ### 📬 Connect with Me  
-<p align="left">
+<p align="l">
   <a href="https://github.com/maurhm11olz">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
