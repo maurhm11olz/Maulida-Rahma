@@ -1,7 +1,7 @@
 ## Hi there, I'm Maulida Rahma! 👋  
 
 ### 🚀 About Me  
-
+I am a passionate web developer and creative designer who loves building innovative applications and aesthetic designs. With a deep passion for technology and creativity, I continuously develop functional and engaging digital solutions. 🚀🎨
 
 ### 💻 Technologies & Skills  
 - 🌐 **Web Development**: Html, Laravel , Laravel Filament, PHP
